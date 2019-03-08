@@ -24,6 +24,13 @@ But it is better to use Python3. To install Python3, run in your terminal :
 $ sudo apt-get update
 $ sudo apt-get install python3
 ```
+or with conda 
+
+```
+$ conda install update
+$ conda install python3
+```
+
 You need to install packages : 
 - PyTorch : https://pytorch.org/get-started/locally/
 - torchvision : https://pypi.org/project/torchvision/
