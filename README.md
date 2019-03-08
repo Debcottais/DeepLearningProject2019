@@ -22,7 +22,7 @@ But it is better to use Python3. To install Python3, run in your terminal :
 
 ```
 $ sudo apt-get update
-$ sudo apt-get install python3.7
+$ sudo apt-get install python3
 ```
 You need to install packages : 
 - PyTorch : https://pytorch.org/get-started/locally/
@@ -46,7 +46,7 @@ $ python Script_CNN.py
 
 ## Built With
 
-* [Python 3.7]
+* [Python 3.6.8]
 
 
 ## Authors
