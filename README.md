@@ -47,7 +47,7 @@ You need to install packages :
 2) Open your terminal and write : 
 
 ```
-$ python Script_CNN.py
+$ python3 Script_CNN.py
 ```
 
 
